@@ -5,6 +5,7 @@
 -I learned how to use semantic elements correctly and how to clean up already written code.
 
 ##Screenshot of page
+
  ```md
     ![alt text](assets/images/screenshot(5).png)
 
