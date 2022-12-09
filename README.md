@@ -6,7 +6,7 @@
 -I learned how to use semantic elements correctly and how to clean up already written code.
 
 ## Screenshot of page
-![Screenshot of webpage](./assets/Screenshot(5).png)
+![Screenshot of webpage](https://github.com/PurpxPanda/Ninja-Shark/blob/main/assets/Screenshot%20(5).png)
 
 ## Link to deployed application
 [Live Webpage](https://purpxpanda.github.io/Ninja-Shark/Develop/assets/index.html)
