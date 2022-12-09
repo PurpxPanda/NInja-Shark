@@ -7,10 +7,8 @@
 
 ## Screenshot of page
 
- ```md
-    ![alt text](Develop/assets/images/screenshot(5).png)
+    ![Screenshot of webpage](./assets/screenshot(5).png)
 
-    ```
-
-##Link to deployed application
-
+## Link to deployed application
+[Live Webpage]
+(https://purpxpanda.github.io/Ninja-Shark/Develop/assets/index.html)
